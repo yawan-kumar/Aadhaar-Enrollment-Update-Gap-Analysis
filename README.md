@@ -277,7 +277,7 @@ rather than simply producing charts from raw data.
 
 ## 👨‍💻 Author
 
-**Lucifer Ram**
+**P YAWAN KUMAR**
 
 B.Tech — Computer Science & Engineering
 Aspiring Data Analyst
