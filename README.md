@@ -39,6 +39,7 @@ The project uses three UIDAI open datasets:
 3. **Biometric Update Data** – Mandatory lifecycle updates
 
 **Source:** UIDAI Open Data Platform
+https://drive.google.com/drive/folders/1x1q23tNxY35wXovhKmWxEM1Snpji26J4?usp=sharing
 
 ---
 
